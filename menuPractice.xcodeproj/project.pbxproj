@@ -16,6 +16,7 @@
 		C494DC1628718F8700BC1ECC /* menuPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C494DC1528718F8700BC1ECC /* menuPracticeTests.swift */; };
 		C494DC2028718F8700BC1ECC /* menuPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C494DC1F28718F8700BC1ECC /* menuPracticeUITests.swift */; };
 		C494DC2228718F8700BC1ECC /* menuPracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C494DC2128718F8700BC1ECC /* menuPracticeUITestsLaunchTests.swift */; };
+		C494DC2F2871988100BC1ECC /* SecondMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = C494DC2E2871988100BC1ECC /* SecondMenu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		C494DC1B28718F8700BC1ECC /* menuPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = menuPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C494DC1F28718F8700BC1ECC /* menuPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = menuPracticeUITests.swift; sourceTree = "<group>"; };
 		C494DC2128718F8700BC1ECC /* menuPracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = menuPracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C494DC2E2871988100BC1ECC /* SecondMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondMenu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				C494DC0828718F8700BC1ECC /* Persistence.swift */,
 				C494DC0A28718F8700BC1ECC /* menuPractice.xcdatamodeld */,
 				C494DC0528718F8700BC1ECC /* Preview Content */,
+				C494DC2E2871988100BC1ECC /* SecondMenu.swift */,
 			);
 			path = menuPractice;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				C494DC0C28718F8700BC1ECC /* menuPractice.xcdatamodeld in Sources */,
 				C494DC0228718F8500BC1ECC /* ContentView.swift in Sources */,
 				C494DC0028718F8500BC1ECC /* menuPracticeApp.swift in Sources */,
+				C494DC2F2871988100BC1ECC /* SecondMenu.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
